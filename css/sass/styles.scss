@@ -1,0 +1,112 @@
+@import 'foundation-emails';
+@import 'partials/colors';
+@import 'partials/fonts';
+*{
+	font-family:futura;
+	font-size:20px;
+}
+html{
+	// border:1px dashed black;
+	width: 826px;
+	height: 827px;
+	background-color:white !important;
+	
+}
+table{
+	// border:1px dashed black;
+}
+body{
+	color: $red;
+		background-color:white !important;
+
+}
+
+
+.imgbox{
+	height:100%;
+	width:100%;
+	// overflow:hidden;
+	position:absolute;
+	// border:1px dashed black;
+	// margin-top:16px;
+
+	.mainimage{
+		// margin-top:-100px;
+		width:100%;
+		height:100%;
+		// z-index:-100;
+		position: absolute;
+    	// clip: rect(-20px,800px,400px,30px);
+	}
+}
+.toplogo{
+	margin-top:-40px;
+	height:130px;
+	width:375px;
+	position:absolute;
+	margin-left:-10px;
+	z-index:200;
+}
+.bottomlogo{
+	height:50%;
+	width:50%;
+}
+.box{
+	background-color:$red;
+	// height:100px;
+	width:100%;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+.sitelink{
+	text-decoration:none;
+}
+.sitelink:hover{
+	text-decoration:underline;
+}
+.sitelink:active{
+	color:$blue;
+}
+.site{
+	text-decoration:none !important;
+	pointer-events:none;
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+}
+.title1{
+	color:$blue;
+	font-size:37px;
+	font-weight: bold;
+}
+.title2{
+	color:$blue;
+	font-size:30px;
+	font-weight: bold;
+}
+.incentives{
+	color:$red;
+	font-weight:bold;
+
+}
+.choice{
+
+	font-weight:bold;
+	font-family:Arial;
+}
+.textbox{
+	background-color:$red;
+	width:100%;
+	height:100%;
+	
+}
+
+.phone{
+	color:$blue;
+	font-weight:bold;
+}
+
+.line{
+	color:$red;
+}

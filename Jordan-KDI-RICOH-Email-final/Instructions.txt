@@ -1,0 +1,93 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: KDI-RICOH-Emails41817.indd
+
+PACKAGE DATE: 4/19/17 11:40 AM
+Creation Date: 4/19/17
+Modification Date: 4/19/17
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1
+
+FONTS
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: FuturaStd-Bold; Type: OpenType Type 1, Status: OK
+- Name: NeutraDisp-Bold; Type: OpenType Type 1, Status: OK
+- Name: NeutraDisp-Titling; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 15.000; Lines/Inch: 85.000
+- Name and Type: Process Magenta; Angle: 75.000; Lines/Inch: 85.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 85.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 85.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 4 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 3 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Canon iR-ADV C5200s-B2 PSV1.0US, (New Canon)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 px, 0 px, 0 px, 0 px
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 826 px x 857 px
+Paper Dimensions: 612 px x 792 px
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. KDI-RICOH-Emails41817.indd; type: Adobe InDesign publication; size: 1960K
+2. KDI-RICOH-Emails41817.idml; type: InDesign Markup Document; size: 111K
+3. KDI-RICOH-Emails41817.pdf; type: Adobe Acrobat Document; size: 539K
+4. Arial Bold.ttf; type: Font file; size: 733K
+5. Arial.ttf; type: Font file; size: 755K
+6. FuturaStd-Bold.otf; type: Font file; size: 26K
+7. NeutraDisplay-Bold.otf; type: Font file; size: 86K
+8. NeutraDisplay-Titling.otf; type: Font file; size: 58K

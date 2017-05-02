@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:\Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:750984
+FileModTime:1247708621
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:773236
+FileModTime:1247708621
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Bold
+FamilyName:Futura Std
+StyleName:Bold
+MenuName:Futura Std Book
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Futura Std Bold
+WritingScript:Roman
+OutlineFileName:\FuturaStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:26900
+FileModTime:1052770656
+NameArray:0,Mac,4,Futura Std Bold
+NameArray:0,Win,1,Futura Std Book
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeutraDisp-Bold
+FamilyName:Neutra Display
+StyleName:Bold
+MenuName:Neutra Display
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Neutra Display Bold
+WritingScript:Roman
+OutlineFileName:\NeutraDisplay-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:88080
+FileModTime:1298946870
+NameArray:0,Mac,18,Neutra Display-Bold
+NameArray:0,Mac,4,Neutra Display Bold
+NameArray:0,Win,1,Neutra Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeutraDisp-Titling
+FamilyName:Neutra Display
+StyleName:Titling
+MenuName:Neutra Display Titling
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Neutra Display Titling
+WritingScript:Roman
+OutlineFileName:\NeutraDisplay-Titling.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:60392
+FileModTime:1298946744
+NameArray:0,Mac,18,Neutra Display-Titling
+NameArray:0,Mac,4,Neutra Display Titling
+NameArray:0,Win,1,Neutra Display Titling
+NameArray:0,Win,16,Neutra Display
+%EndFont
+

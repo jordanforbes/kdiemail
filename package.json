@@ -1,0 +1,21 @@
+{
+  "name": "kdioffice",
+  "version": "1.0.0",
+  "description": "responsive email",
+  "main": "index.js",
+  "dependencies": {
+    "foundation-emails": "^2.2.1",
+    "node-compass": "^0.2.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-replace": "^0.5.4",
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Jordan Forbes",
+  "license": "ISC"
+}
